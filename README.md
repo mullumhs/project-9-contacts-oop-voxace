@@ -1,22 +1,23 @@
-# Project 8: Contacts
+# Project 9: Contacts (OOP)
 
 Teacher: David Steedman
 
-This repository contains Project 8 for the MHS Software Engineering class. The focus of this project is to create a Contacts application in Python.
+This repository contains Project 8 for the MHS Software Engineering class. The focus of this project is to create a Contacts application in Python using OOP.
 
 ## Main Project: Contacts Program
 - File: [`contacts.py`](contacts.py)
-- Description: Develop a Contacts application in Python that allows users to manage their contact list. The application should enable users to add new contacts, update existing contacts, delete contacts, search for specific contacts, and list all contacts using a procedural approach.
+- Description: Develop a Contacts application in Python that allows users to manage their contact list. The application should enable users to add new contacts, update existing contacts, delete contacts, search for specific contacts, and list all contacts using an OOP approach.
 
 ## Task Requirements
 - The program should be written in Python.
-- Students must use functions to encapsulate the functionality of the program.
+- Students must use a contacts class to encapsulate the functionality of the program.
 - The program should offer a menu-driven interface to interact with the user.
 - Proper input validation should be implemented for robustness.
 - The program should handle edge cases, like searching for a non-existent contact, gracefully.
 
 ## Learning Outcomes
-- Reinforce understanding of Python data structures, particularly dictionaries.
-- Deepen comprehension of functions and procedural programming concepts.
-- Apply logical thinking and problem-solving skills in a practical programming task.
-- Prepare for the transition to object-oriented programming in future lessons.
+- Gain experience in implementing object-oriented programming principles in Python.
+- Develop an understanding of class and object concepts.
+- Learn how to encapsulate data and behaviour within a contacts class.
+- Gain proficiency in structuring a program using OOP principles.
+
